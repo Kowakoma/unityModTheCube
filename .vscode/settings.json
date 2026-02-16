@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "ModTheCube.sln"
+    "dotnet.defaultSolution": "ModTheCube.slnx"
 }
